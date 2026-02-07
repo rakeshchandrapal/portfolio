@@ -18,6 +18,7 @@ import {
   IconFreelancer,
   IconFiverr,
   IconUpWork,
+  IconFlutter,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -56,6 +57,8 @@ const Icon = ({ name }) => {
       return <IconFiverr />;
     case 'UpWork':
       return <IconUpWork />;
+    case 'Flutter':
+      return <IconFlutter />;
     default:
       return <IconExternal />;
   }

@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Yash Parmar',
+    title: 'Rakesh Chandrapal',
     description:
-      'Yash Parmar is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences for mobile.',
-    siteUrl: 'https://yash-parmar.netlify.app',
+      'Rakesh Chandrapal is a Flutter developer specializing in building exceptional cross-platform mobile applications with clean architecture and BLoC pattern.',
+    siteUrl: 'https://rakesh-chandrapal.netlify.app',
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@yashparmar75',
+    twitterUsername: '@rakeshchandrapal',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Yash Parmar',
-        short_name: 'Yash Parmar',
+        name: 'Rakesh Chandrapal',
+        short_name: 'Rakesh Chandrapal',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

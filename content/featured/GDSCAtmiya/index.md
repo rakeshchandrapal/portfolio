@@ -7,13 +7,11 @@ external: ''
 tech:
   - Flutter
   - Firebase
-  - One Signal
+  - OneSignal
   - BLoC
   - Real Time (Firestore)
 ---
 
-Conceptualized and developed GDSC Atmiya as the app development lead within the core team, creating an event management solution for the college's GDSC chapter.
+Conceptualized and led development of GDSC Atmiya, an event management solution for the college's GDSC chapter (July - Aug 2023).
 
-Built with Flutter and Bloc for responsive state management, and [Firebase](https://firebase.google.com/) for secure storage and retrieval of event data for an estimated 50+ events annually. Integrated [OneSignal](https://onesignal.com/) for push notifications, ensuring timely communication and engagement.
-
-Streamlined event management by enabling members to receive notifications and RSVP directly through the app, potentially increasing event participation by 30%.
+Leveraged Flutter and BLoC for responsive user experience. Integrated Firebase for secure event data management. Implemented OneSignal for push notifications, enhancing communication with 400+ club members. Streamlined event management with direct RSVP and notification features via GDSC's official website within the app.

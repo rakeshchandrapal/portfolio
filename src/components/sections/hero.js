@@ -60,14 +60,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello, my name is</h1>;
-  const two = <h2 className="big-heading">Yash Parmar,</h2>;
-  const three = <h3 className="big-heading">I build apps for mobile and beyond.</h3>;
+  const two = <h2 className="big-heading">Rakesh Chandrapal,</h2>;
+  const three = <h3 className="big-heading">I build cross-platform mobile apps.</h3>;
   const four = (
     <>
       <p>
-        I’m a Flutter developer specializing in building exceptional cross-platform mobile
-        applications. I’m passionate about creating efficient, user-friendly apps that deliver great
-        digital experiences.
+        I'm a Flutter developer at Wings Tech Solutions, specializing in building exceptional
+        cross-platform mobile applications. I'm passionate about creating efficient, user-friendly
+        apps with clean architecture and BLoC pattern.
       </p>
     </>
   );

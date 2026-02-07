@@ -1,30 +1,18 @@
 module.exports = {
-  email: 'yashp758820@gmail.com',
+  email: 'rakesh202078@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/YashParmar0001',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://x.com/yashparmar75',
+      url: 'https://github.com/rakeshchandrapal',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yash-parmar-b34b90220/',
+      url: 'https://www.linkedin.com/in/rakesh-chandrapal/',
     },
     {
       name: 'Freelancer',
-      url: 'https://www.freelancer.com/u/yashp7588',
-    },
-    {
-      name: 'Fiverr',
-      url: 'https://www.fiverr.com/yashp7588?up_rollout=true',
-    },
-    {
-      name: 'UpWork',
-      url: 'https://www.upwork.com/freelancers/~0100764bb9e52b2805?mp_source=share',
+      url: 'https://www.freelancer.com/u/rakesh202078?sb=t',
     },
   ],
 

@@ -125,11 +125,13 @@ const About = () => {
 
   const skills = [
     'Flutter',
+    'Dart',
+    'Java',
+    'Kotlin',
     'Firebase',
-    'GraphQL',
-    'Version Control (Git)',
+    'BLoC',
     'Android Development',
-    'UI / UX',
+    'REST APIs',
   ];
 
   return (
@@ -140,23 +142,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, My name is Yash Parmar and I’m a Flutter developer passionate about creating
-              efficient and user-friendly cross-platform applications. I’m currently a final-year
-              computer engineering student, and my journey in app development started with Android
-              development, where I built native apps and explored the fundamentals of mobile
-              technology. Later, I transitioned to Flutter to leverage its ability to create
-              beautiful, performant apps for multiple platforms with a single codebase.
+              Hello, I'm Rakesh Chandrapal, a Flutter developer currently working at Wings Tech
+              Solutions. I've completed my Bachelor of Technology from Atmiya University with a CGPA
+              of 8.6. My journey in app development started with Android development, where I built
+              native apps and explored the fundamentals of mobile technology. Later, I transitioned
+              to Flutter to leverage its ability to create beautiful, performant apps for multiple
+              platforms with a single codebase.
             </p>
 
             <p>
-              Currently, I’m working on Otaku World, an AniList client app designed for anime
-              enthusiasts. I specialize in using Flutter, Firebase, GraphQL, and other modern tools
-              to craft seamless digital experiences.
+              Currently, I'm developing and maintaining features for Brooon, a real estate app. My
+              work includes enhancing matching functionality, introducing city-based features, and
+              leading migration to the latest Flutter version.
             </p>
 
             <p>
-              When I’m not coding, you can find me playing games or watching anime — I’m always
-              looking for new ways to merge my passions with my work.
+              I'm passionate about writing clean, maintainable code and leveraging modern
+              technologies to solve real-world problems.
             </p>
 
             <p>What I Work With:</p>
