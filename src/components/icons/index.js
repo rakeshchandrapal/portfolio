@@ -18,3 +18,4 @@ export { default as IconFreelancer } from './freelancer';
 export { default as IconFiverr } from './fiverr';
 export { default as IconUpWork } from './upwork';
 export { default as IconFlutter } from './flutter';
+export { default as IconFigma } from './figma';

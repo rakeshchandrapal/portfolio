@@ -19,6 +19,7 @@ import {
   IconFiverr,
   IconUpWork,
   IconFlutter,
+  IconFigma,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -59,6 +60,8 @@ const Icon = ({ name }) => {
       return <IconUpWork />;
     case 'Flutter':
       return <IconFlutter />;
+    case 'Figma':
+      return <IconFigma />;
     default:
       return <IconExternal />;
   }

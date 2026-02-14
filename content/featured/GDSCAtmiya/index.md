@@ -3,7 +3,8 @@ date: '3'
 title: 'GDSC Atmiya'
 cover: './thumb.png'
 github: 'https://github.com/YashParmar0001/gdsc-app-rebase?tab=readme-ov-file#gdsc-atmiya'
-external: ''
+external: 'https://www.figma.com/design/kmG7Phd29Tw2yTEY1aZDAV/GDSC-App'
+externalIcon: 'Figma'
 tech:
   - Flutter
   - Firebase

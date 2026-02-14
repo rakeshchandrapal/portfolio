@@ -2,7 +2,7 @@
 date: '4'
 title: 'Paginated BLoC Widget'
 cover: './thumb.png'
-github: 'https://github.com/rakeshchandrapal/paginated_bloc_widget'
+github: 'https://github.com/rakeshchandrapal/Paginated-Bloc'
 external: 'https://pub.dev/packages/paginated_bloc_widget'
 externalIcon: 'Flutter'
 tech:

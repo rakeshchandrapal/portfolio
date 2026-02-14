@@ -3,7 +3,8 @@ date: '2'
 title: 'JCC - Jamnagar Corporation Care'
 cover: './thumb.png'
 github: 'https://github.com/rakeshchandrapal/jcc'
-external: ''
+external: 'https://www.figma.com/design/QOFNsyN3EYBYoh7oberPn5/JCC-Design'
+externalIcon: 'Figma'
 tech:
   - Flutter
   - Firebase

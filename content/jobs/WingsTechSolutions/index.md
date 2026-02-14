@@ -2,7 +2,7 @@
 date: '2024-05-01'
 title: 'Flutter Developer'
 company: 'Wings Tech Solutions'
-location: 'Remote'
+location: 'Rajkot'
 range: 'May 2024 - Present'
 url: '#'
 ---
